@@ -1,0 +1,7 @@
+2024-08-14 19:19:54.717 [main] INFO  blog.ice.weblogweb.WeblogWebApplicationTests - Starting WeblogWebApplicationTests using Java 19.0.1 on DESKTOP-L5VIA6F with PID 13300 (started by icedragon in F:\coding\workplace\weblog\weblog-springboot\weblog-web)
+2024-08-14 19:19:54.717 [main] INFO  blog.ice.weblogweb.WeblogWebApplicationTests - The following profiles are active: prod
+2024-08-14 19:19:55.839 [main] INFO  blog.ice.weblogweb.WeblogWebApplicationTests - Started WeblogWebApplicationTests in 1.727 seconds (JVM running for 2.813)
+2024-08-14 19:19:56.035 [main] INFO  blog.ice.weblogweb.WeblogWebApplicationTests - test info
+2024-08-14 19:19:56.035 [main] WARN  blog.ice.weblogweb.WeblogWebApplicationTests - test warn
+2024-08-14 19:19:56.036 [main] ERROR blog.ice.weblogweb.WeblogWebApplicationTests - test error
+2024-08-14 19:19:56.036 [main] INFO  blog.ice.weblogweb.WeblogWebApplicationTests - Hello, I am icedragon
